@@ -1,6 +1,6 @@
 I am developing a few R packages, which are mostly derived from existing JavaScript libraries:
 
-* [docsifier](https://docsifier.etiennebacher.com) (*adaptation of [docsify.js](https://docsify.js.org/#/)*): build a webpage for your documentation, whether it is an R package or an R project (alternative to {pkgdown}).
+* [docsifier](https://docsifier.etiennebacher.com) (*adaptation of [docsify.js](https://docsify.js.org/#/)*): build a webpage for your documentation, whether it is an R package or an R project (alternative to `{pkgdown}`).
 
 * [tinyslider](https://tinyslider.etiennebacher.com) (*adaptation of [tiny-slider.js](https://github.com/ganlanyuan/tiny-slider)*): make carousels in Shiny apps and R Markdown documents.
 
