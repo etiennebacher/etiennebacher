@@ -35,3 +35,9 @@ JavaScript libraries (:heavy\_check\_mark: for the packages on CRAN, and
     [spoiler](https://github.com/etiennebacher/spoiler) (*adaptation of
     [spoiler-alert.js](https://github.com/joshbuddy/spoiler-alert)*):
     blur some elements in Shiny apps.
+
+While developing these packages, I had some trouble trying to determine
+if a Javascript library had already been adapted in R. Therefore, I just
+started a list of R packages that adapt Javascript libraries, and you
+are invited to contribute\! [Here’s the
+list](https://github.com/etiennebacher/r-js-adaptation).
