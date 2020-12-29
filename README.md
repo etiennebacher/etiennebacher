@@ -28,7 +28,7 @@ JavaScript libraries (:heavy\_check\_mark: for the packages on CRAN, and
   - :heavy\_multiplication\_x:
     [circletyper](https://github.com/etiennebacher/circletyper)
     (*adaptation of
-    [CircleType.js](https://github.com/etiennebacher/circletyper)*):
+    [CircleType.js](https://github.com/peterhry/CircleType)*):
     curve text elements in Shiny apps.
 
   - :heavy\_multiplication\_x:
