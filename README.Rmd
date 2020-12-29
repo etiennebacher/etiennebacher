@@ -12,6 +12,6 @@ I am developing a few R packages, which are mostly derived from existing JavaScr
 
 * :heavy_multiplication_x: [prompter](https://github.com/etiennebacher/prompter) (*adaptation of [hint.css](https://github.com/chinchang/hint.css)*): easily create tooltips in Shiny apps.
 
-* :heavy_multiplication_x: [circletyper](https://github.com/etiennebacher/circletyper) (*adaptation of [CircleType.js](https://github.com/etiennebacher/circletyper)*): curve text elements in Shiny apps.
+* :heavy_multiplication_x: [circletyper](https://github.com/etiennebacher/circletyper) (*adaptation of [CircleType.js](https://github.com/peterhry/CircleType)*): curve text elements in Shiny apps.
 
 * :heavy_multiplication_x: [spoiler](https://github.com/etiennebacher/spoiler) (*adaptation of [spoiler-alert.js](https://github.com/joshbuddy/spoiler-alert)*): blur some elements in Shiny apps.
