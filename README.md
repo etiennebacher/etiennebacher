@@ -31,7 +31,7 @@ JavaScript libraries (:heavy\_check\_mark: for the packages on CRAN, and
     [CircleType.js](https://github.com/peterhry/CircleType)*): curve
     text elements in Shiny apps.
 
--   :heavy\_multiplication\_x:
+-   :heavy\_check\_mark:
     [spoiler](https://github.com/etiennebacher/spoiler) (*adaptation of
     [spoiler-alert.js](https://github.com/joshbuddy/spoiler-alert)*):
     blur some elements in Shiny apps.
