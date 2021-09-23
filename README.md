@@ -4,15 +4,8 @@ JavaScript libraries (:heavy\_check\_mark: for the packages on CRAN, and
 :heavy\_multiplication\_x: for the others):
 
 -   :heavy\_multiplication\_x:
-    [docsifier](https://docsifier.etiennebacher.com) (*adaptation of
-    [docsify.js](https://docsify.js.org/#/)*): build a webpage for your
-    documentation, whether it is an R package or an R project
-    (alternative to `{pkgdown}`).
-
--   :heavy\_multiplication\_x:
-    [tinyslider](https://tinyslider.etiennebacher.com) (*adaptation of
-    [tiny-slider.js](https://github.com/ganlanyuan/tiny-slider)*): make
-    carousels in Shiny apps and R Markdown documents.
+    [altdoc](https://altdoc.etiennebacher.com): use [docsify.js](https://docsify.js.org/#/) or [docute](https://docute.org/) to build a webpage for your R package
+    documentation (alternative to `{pkgdown}`).
 
 -   :heavy\_check\_mark:
     [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen)
