@@ -4,7 +4,7 @@ JavaScript libraries (:heavy\_check\_mark: for the packages on CRAN, and
 :heavy\_multiplication\_x: for the others):
 
 -   :heavy\_multiplication\_x:
-    [altdoc](https://altdoc.etiennebacher.com): use [docsify.js](https://docsify.js.org/#/) or [docute](https://docute.org/) to build a webpage for your R package
+    [altdoc](https://altdoc.etiennebacher.com): use [docsify.js](https://docsify.js.org/#/), [docute](https://docute.org/), or [mkdocs](https://www.mkdocs.org/) to build a website for your R package
     documentation (alternative to `{pkgdown}`).
 
 -   :heavy\_check\_mark:
