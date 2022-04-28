@@ -11,7 +11,7 @@ JavaScript libraries (:heavy\_check\_mark: for the packages on CRAN, and
     [conductor](https://github.com/etiennebacher/conductor)
     (*adaptation of
     [shepherd.js](https://shepherdjs.dev/)*):
-    display HTML elements in fullscreen in Shiny apps.
+    create tours in Shiny apps.
 
 -   :heavy\_check\_mark:
     [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen)
