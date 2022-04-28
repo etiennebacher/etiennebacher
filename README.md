@@ -6,6 +6,12 @@ JavaScript libraries (:heavy\_check\_mark: for the packages on CRAN, and
 -   :heavy\_multiplication\_x:
     [altdoc](https://altdoc.etiennebacher.com): use [docsify.js](https://docsify.js.org/#/), [docute](https://docute.org/), or [mkdocs](https://www.mkdocs.org/) to build a website for your R package
     documentation (alternative to `{pkgdown}`).
+    
+-   :heavy\_check\_mark:
+    [conductor](https://github.com/etiennebacher/conductor)
+    (*adaptation of
+    [shepherd.js](https://shepherdjs.dev/)*):
+    display HTML elements in fullscreen in Shiny apps.
 
 -   :heavy\_check\_mark:
     [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen)
@@ -17,17 +23,6 @@ JavaScript libraries (:heavy\_check\_mark: for the packages on CRAN, and
     [prompter](https://github.com/etiennebacher/prompter) (*adaptation
     of [hint.css](https://github.com/chinchang/hint.css)*): easily
     create tooltips in Shiny apps.
-
--   :heavy\_check\_mark:
-    [circletyper](https://github.com/etiennebacher/circletyper)
-    (*adaptation of
-    [CircleType.js](https://github.com/peterhry/CircleType)*): curve
-    text elements in Shiny apps.
-
--   :heavy\_check\_mark:
-    [spoiler](https://github.com/etiennebacher/spoiler) (*adaptation of
-    [spoiler-alert.js](https://github.com/joshbuddy/spoiler-alert)*):
-    blur some elements in Shiny apps.
 
 While developing these packages, I had some trouble trying to determine
 if a Javascript library had already been adapted in R. Therefore, I just
