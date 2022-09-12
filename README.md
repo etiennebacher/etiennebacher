@@ -1,7 +1,7 @@
 
 I develop a few R packages that rely on JavaScript libraries:
 
--   [docsifier](https://docsifier.etiennebacher.com) (*adaptation of
+-   [altdoc](https://altdoc.etiennebacher.com) (*adaptation of
     [docsify.js](https://docsify.js.org/#/)*): build a webpage for your
     documentation, whether it is an R package or an R project
     (alternative to `{pkgdown}`).
