@@ -7,8 +7,8 @@ I develop a few R packages that rely on JavaScript libraries:
     to build a website for your R package documentation (alternative to
     `{pkgdown}`).
 
--   [conductor](https://github.com/etiennebacher/conductor) (*adaptation
-    of [shepherd.js](https://shepherdjs.dev/)*): create tours in Shiny
+-   [conductor](https://conductor.etiennebacher.com) (*adaptation of
+    [shepherd.js](https://shepherdjs.dev/)*): create tours in Shiny
     apps.
 
 -   [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen)
@@ -16,9 +16,9 @@ I develop a few R packages that rely on JavaScript libraries:
     [screenfull.js](https://github.com/sindresorhus/screenfull.js)*):
     display HTML elements in fullscreen in Shiny apps.
 
--   [prompter](https://github.com/etiennebacher/prompter) (*adaptation
-    of [hint.css](https://github.com/chinchang/hint.css)*): easily
-    create tooltips in Shiny apps.
+-   [prompter](https://prompter.etiennebacher.com) (*adaptation of
+    [hint.css](https://github.com/chinchang/hint.css)*): easily create
+    tooltips in Shiny apps.
 
 While developing these packages, I had some trouble trying to determine
 if a Javascript library had already been adapted in R. Therefore, I
