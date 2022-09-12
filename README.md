@@ -3,7 +3,7 @@ I am developing a few R packages, which are mostly derived from existing
 JavaScript libraries (:heavy\_check\_mark: for the packages on CRAN, and
 :heavy\_multiplication\_x: for the others):
 
--   :heavy\_multiplication\_x:
+-   :heavy\_check\_mark:
     [altdoc](https://altdoc.etiennebacher.com): use [docsify.js](https://docsify.js.org/#/), [docute](https://docute.org/), or [mkdocs](https://www.mkdocs.org/) to build a website for your R package
     documentation (alternative to `{pkgdown}`).
     
