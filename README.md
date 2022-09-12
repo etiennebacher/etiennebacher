@@ -1,5 +1,5 @@
 
-I am developing a few R packages that rely on JavaScript libraries:
+I develop a few R packages that rely on JavaScript libraries:
 
 -   [docsifier](https://docsifier.etiennebacher.com) (*adaptation of
     [docsify.js](https://docsify.js.org/#/)*): build a webpage for your
