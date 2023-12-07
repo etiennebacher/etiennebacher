@@ -12,7 +12,7 @@ I develop, contribute to, or maintain a few R packages related to various topics
 -   [datawizard](https://easystats.github.io/datawizard/): this package is
     part of the [`easystats`](https://easystats.github.io/easystats/) ecosystem.
     It provides many functions to manipulate data (similarly to what `dplyr` and
-    `tidyr` do) and to perform various statistical transformation on variabes
+    `tidyr` do) and to perform various statistical transformation on variables
     (standardizing, winsorizing, normalizing, etc.).
 
 ### Package development
