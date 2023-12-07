@@ -11,15 +11,14 @@ I develop, contribute to, or maintain a few R packages related to various topics
 
 -   [datawizard](https://easystats.github.io/datawizard/): this package is
     part of the [`easystats`](https://easystats.github.io/easystats/) ecosystem.
-    It provides many functions to manipulate data (similarly as what `dplyr` and
+    It provides many functions to manipulate data (similarly to what `dplyr` and
     `tidyr` do) and to perform various statistical transformation on variabes
     (standardizing, winsorizing, normalizing, etc.).
 
 ### Package development
 
--   [altdoc](https://altdoc.etiennebacher.com): use
-    [docsify.js](https://docsify.js.org/#/),
-    [docute](https://docute.org/), or [mkdocs](https://www.mkdocs.org/)
+-   [altdoc](https://altdoc.etiennebacher.com): use [docsify.js](https://docsify.js.org/#/),
+    [docute](https://docute.org/), [mkdocs](https://www.mkdocs.org/), or [quarto](https://quarto.org/)
     to build a website for your R package documentation. This is meant to
     be an alternative to `{pkgdown}`.
 
