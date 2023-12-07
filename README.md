@@ -4,7 +4,7 @@ I develop, contribute to, or maintain a few R packages related to various topics
 ### Data manipulation
 
 -   [polars](https://rpolars.github.io/): port of the Rust/Python [polars](https://pola.rs/)
-    in R.
+    to R.
 
 -   [tidypolars](https://tidypolars.etiennebacher.com/): get the power of `polars`
     with the syntax of the `tidyverse`. 
