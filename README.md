@@ -1,7 +1,9 @@
 
-I develop or maintain a few R packages related to various topics.
+I develop, contribute to, or maintain a few R packages related to various topics.
 
 ### Data manipulation
+
+-   [polars](https://rpolars.github.io/): port of [polars](https://pola.rs/) in R.
 
 -   [tidypolars](https://tidypolars.etiennebacher.com/): get the power of `polars`
     with the syntax of the `tidyverse`. 
