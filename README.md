@@ -3,8 +3,8 @@ I develop or maintain a few R packages related to various topics.
 
 ### Data manipulation
 
--   [tidypolars](https://tidypolars.etiennebacher.com/): use the `tidyverse`
-    syntax with the capabilities of `polars`.
+-   [tidypolars](https://tidypolars.etiennebacher.com/): get the power of `polars`
+    with the syntax of the `tidyverse`. 
 
 -   [datawizard](https://easystats.github.io/datawizard/): this package is
     part of the [`easystats`](https://easystats.github.io/easystats/) ecosystem.
