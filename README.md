@@ -21,7 +21,7 @@ I develop, contribute to, or maintain a few R packages related to various topics
     [docute](https://docute.org/), [mkdocs](https://www.mkdocs.org/), or [quarto](https://quarto.org/)
     to build a website for your R package documentation. This is meant to
     be an alternative to `{pkgdown}`.
--   [flint](https://flint.etiennebacher.com/): very fast package to find lints and automatically fix
+-   [flir](https://flir.etiennebacher.com/): very fast package to find lints and automatically fix
     them based on an extensible list of rules.
 -   [astgrepr](https://astgrepr.etiennebacher.com/): a package to parse and manipulate R code based on
     the [ast-grep](https://ast-grep.github.io/) Rust crate. This is the foundation on which `flint` is
