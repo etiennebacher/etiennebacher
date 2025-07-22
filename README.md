@@ -6,8 +6,8 @@ I develop, contribute to, or maintain a few R packages related to various topics
 -   [polars](https://rpolars.github.io/): port of the Rust/Python [polars](https://pola.rs/)
     to R.
 
--   [tidypolars](https://tidypolars.etiennebacher.com/): get the power of `polars`
-    with the syntax of the `tidyverse`. 
+-   [tidypolars](https://tidypolars.etiennebacher.com/):  More efficient `tidyverse` code,
+    using `polars` in the background. 
 
 -   [datawizard](https://easystats.github.io/datawizard/): this package is
     part of the [`easystats`](https://easystats.github.io/easystats/) ecosystem.
