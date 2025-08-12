@@ -24,7 +24,7 @@ I develop, contribute to, or maintain a few R packages related to various topics
 -   [flir](https://flir.etiennebacher.com/): very fast package to find lints and automatically fix
     them based on an extensible list of rules.
 -   [astgrepr](https://astgrepr.etiennebacher.com/): a package to parse and manipulate R code based on
-    the [ast-grep](https://ast-grep.github.io/) Rust crate. This is the foundation on which `flint` is
+    the [ast-grep](https://ast-grep.github.io/) Rust crate. This is the foundation on which `flir` is
     built. 
 
 ### R Shiny applications
